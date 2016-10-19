@@ -1,1 +1,4 @@
 *.pyc
+job_file.csv
+company_file.csv
+debug_log.txt
